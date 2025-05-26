@@ -1,6 +1,5 @@
 # 🌿 Smart Irrigation System Using Machine Learning 🌿
 An intelligent irrigation system that uses real-time environmental data and a machine learning model to predict optimal irrigation needs. Designed to integrate sensor data, Raspberry Pi, and predictive analytics to automate water management and enhance agricultural efficiency.
-
 ## 📂 Project Structure
 ```bash
 Smart-Irrigation-System/
@@ -14,6 +13,8 @@ Smart-Irrigation-System/
 ├── README.md               # Project documentation
 └── LICENSE                 # Open-source license 
 ```
+![SMART IRRIGATION](https://github.com/user-attachments/assets/29f6883f-cf98-4cad-9b09-77ea8a005098)
+
 ## 🚀 Features
 - ✅ Real-time data collection from sensors (e.g., temperature, humidity, wind, etc.)
 - ✅ Machine learning-based prediction of irrigation needs
