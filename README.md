@@ -14,18 +14,18 @@ Smart-Irrigation-System/
 ├── README.md               # Project documentation
 └── LICENSE                 # Open-source license 
 ```
-##🚀 Features
+## 🚀 Features
 - ✅ Real-time data collection from sensors (e.g., temperature, humidity, wind, etc.)
 - ✅ Machine learning-based prediction of irrigation needs
 - ✅ CSV data logging and automatic training
 - ✅ Runs on Raspberry Pi for field deployment
 
-##📦 Requirements
+## 📦 Requirements
 - Python 3.8+
 - Pandas, Scikit-learn
 - Raspberry Pi (for deployment)
 - Sensor Modules (e.g., DHT11, soil moisture, wind sensor)
-- 
+  
 ## Install dependencies:
 ```bash
 pip install -r raspberry_pi_code/requirements.txt
